@@ -86,14 +86,80 @@
         },
         ".",
       ],
+     ["Batmanin mahçup olduğu zevk"],
       [
-        "Step 2: ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["Step 3: Profit."],
+    ],
+    [["RTÜK artık televizyonda ", {}, "yasağını kaldırıyor"]],
+    [
+      [
+        "Sırada Sabahattin Ali'den ",
+        {
+          text: "Madonna Kürk mantosuyla ",
+          style: "Em",
+        },
+        {
+          transform: "Capitalize",
+          style: "Em",
+        },
+        ".",
+      ],
+    ],
+    [
+      ["Evet doğru. Ben", {}, "kişisini öldürdüm"],
+      ["Nasıl mı yaptım?"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      [
+        "Öğretmenim özür dilerim ödevimi yetiştiremedim çünkü ",
+        {},
+        ".",
+      ],
+    ],
+    [["Ve en iyi ", {}, " için altın portakal ödülü ", {}, "gidiyor"]],
+    [["Reis banyoya sakın girme"], ["Orada ", {}, "var"]],
+    [
+      ["Bakireliğimi nasıl mı kaybettim?"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      [
+        "Bizim zamanımızda çocuklar ",
+        {},
+        "ile uğraşırdı. Nerede o eski günler.",
+      ],
+    ],
+    [
+      [
+        "1. Adım: ",
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+      [
+        "2. Adım: ",
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+      ["3. Adım: Zafer."],
     ],
     [
       [
@@ -102,13 +168,13 @@
         },
         ".",
       ],
-      ["Becha can’t have just one!"],
+      ["Ye ye doyamazsın"],
     ],
-    [["Kids, I don’t need drugs to get high. I’m high on ", {}, "."]],
+    [["Hocamlar benim kafamın iyi olması için uyuşturucuya gerek yok. Ben", {}, "ile uçuyorum."]],
     [["For my next trick, I will pull ", {}, " out of ", {}, "."]],
     [
       [
-        "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ",
+        "Türkler ile yunanlar kavga içindeyken, azerbeycan hükümeti bu ürüne 1 milyar dolar yatırım yaptı ",
         {},
         ".",
       ],
