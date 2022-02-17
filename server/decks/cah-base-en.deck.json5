@@ -1,4 +1,3 @@
-
 // Used under a Creative Commons BY-NC-SA 2.0 license, https://creativecommons.org/licenses/by-nc-sa/2.0/
 {
   name: "Cards Against Humanity",
@@ -7,20 +6,20 @@
   calls: [
     [
       [
-        "Selam Ekşi Sözlük Ben ",
+        "Selam Eksi Sozluk Ben ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["Sorularınız alayım."],
+      ["Sorularinizi alayim."],
     ],
     [
-      ["Ekstra Eksra Serpme Kahvaltı!"],
-      ["Serpme kahvaltı gibi ama", {}, "ile birlikte!"],
+      ["Ekstra Eksra Serpme Kahvalti!"],
+      ["Serpme kahvalti gibi ama", {}, "ile birlikte!"],
     ],
     [
-      ["Batmanin mahçup olduğu zevk"],
+      ["Batmanin mahçup oldugu zevk"],
       [
         {
           transform: "Capitalize",
@@ -28,12 +27,12 @@
         ".",
       ],
     ],
-    [["RTÜK artık televizyonda ", {}, "yasağını kaldırıyor"]],
+    [["RTÜK artik televizyonda ", {}, "yasagini kaldiriyor"]],
     [
       [
-        "Sırada Sabahattin Ali'den ",
+        "Sirada Sabahattin Ali'den ",
         {
-          text: "Madonna Kürk mantosuyla ",
+          text: "Madonna Kurk mantosuyla ",
           style: "Em",
         },
         {
@@ -44,8 +43,8 @@
       ],
     ],
     [
-      ["Evet doğru. Ben", {}, "kişisini öldürdüm"],
-      ["Nasıl mı yaptım?"],
+      ["Evet dogru. Ben", {}, "kisisini oldurdum"],
+      ["Nasil mi yaptim?"],
       [
         {
           transform: "Capitalize",
@@ -55,15 +54,15 @@
     ],
     [
       [
-        "Öğretmenim özür dilerim ödevimi yetiştiremedim çünkü ",
+        "Ögretmenim ozur dilerim odevimi yetistiremedim çunku ",
         {},
         ".",
       ],
     ],
-    [["Ve en iyi ", {}, " için altın portakal ödülü ", {}, "gidiyor"]],
-    [["Reis banyoya sakın girme"], ["Orada ", {}, "var"]],
+    [["Ve en iyi ", {}, " için altin portakal odulu ", {}, "gidiyor"]],
+    [["Reis banyoya sakin girme"], ["Orada ", {}, "var"]],
     [
-      ["Bakireliğimi nasıl mı kaybettim?"],
+      ["Bakireligimi nasil mi kaybettim?"],
       [
         {
           transform: "Capitalize",
@@ -73,27 +72,27 @@
     ],
     [
       [
-        "Bizim zamanımızda çocuklar ",
+        "Bizim zamanimizda çocuklar ",
         {},
-        "ile uğraşırdı. Nerede o eski günler.",
+        "ile ugrasirdi. Nerede o eski gunler.",
       ],
     ],
     [
       [
-        "1. Adım: ",
+        "1. Adim: ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
       [
-        "2. Adım: ",
+        "2. Adim: ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["3. Adım: Zafer."],
+      ["3. Adim: Zafer."],
     ],
     [
       [
@@ -102,26 +101,26 @@
         },
         ".",
       ],
-      ["Ye ye doyamazsın"],
+      ["Ye ye doyamazsin"],
     ],
-    [["Hocamlar benim kafamın iyi olması için uyuşturucuya gerek yok. Ben", {}, "ile uçuyorum."]],
+    [["Hocamlar benim kafamin iyi olmasi için uyusturucuya gerek yok. Ben", {}, "ile uçuyorum."]],
     [["For my next trick, I will pull ", {}, " out of ", {}, "."]],
     [
       [
-        "Türkler ile yunanlar kavga içindeyken, azerbeycan hükümeti bu ürüne 1 milyar dolar yatırım yaptı ",
+        "Turkler ile yunanlar kavga içindeyken, azerbeycan hukumeti bu urune 1 milyar dolar yatirim yapti ",
         {},
         ".",
       ],
     ],
     [
       [
-        "TRT 1'in yeni dizisinde Kurtuluş Ertuğrul ",
+        "TRT 1'in yeni dizisinde Kurtulus Ertugrul ",
         {},
-        " ile ilk defa mücadele edecek",
+        " ile ilk defa mucadele edecek",
       ],
     ],
     [
-      ["Benim gizli gücüm ne?"],
+      ["Benim gizli gucum ne?"],
       [
         {
           transform: "Capitalize",
@@ -158,18 +157,18 @@
       [
         "Bu devasa ",
         {},
-        "görse Atatürk mezarında ters dönerdi",
+        "gorse Ataturk mezarinda ters donerdi",
       ],
     ],
     [
       [
-        "Ulan bir kere de teşekkür et be, bir kere de de ki ",
+        "Ulan bir kere de tesekkur et be, bir kere de de ki ",
         {},
-        "için teşekkür ederim”",
+        "için tesekkur ederim”",
       ],
     ],
     [
-      ["Baba, annem neden ağlıyor?"],
+      ["Baba, annem neden agliyor?"],
       [
         {
           transform: "Capitalize",
@@ -177,18 +176,18 @@
         ".",
       ],
     ],
-    [["Rakı masasında 4 saatten sonra, ", {}, {}, "na dönüştü" "."]],
-    [["Evliliklerin %50si ", {}, "yüzünden sonlanır."]],
+    [["Raki masasinda 4 saatten sonra, ", {}, {}, "na donustu" "."]],
+    [["Evliliklerin %50si ", {}, "yuzunden sonlanir."]],
     [
       [
-        "Ey mütiş osmanlı halkım, bu yüzyıl bitmeden ",
+        "Ey mutis osmanli halkim, bu yuzyil bitmeden ",
         {
-          text: "ecnebi topraklarına",
+          text: "ecnebi topraklarina",
           style: "Em",
         },
         ", kocaman ",
         {},
-        " dikeceğiz.",
+        " dikecegiz.",
       ],
     ],
     [
@@ -201,20 +200,20 @@
         {
           style: "Em",
         },
-        "dövüyor.",
+        "dovuyor.",
       ],
     ],
-    [["Kurban bayramlarında ekonomik durumdan dolayı bundan sonra ", {}, "kesilecek."]],
+    [["Kurban bayramlarinda ekonomik durumdan dolayi bundan sonra ", {}, "kesilecek."]],
     [
       [
-        "Türkler onlarla ",
+        "Turkler onlarla ",
         {},
-        "'i tanıştırdıktan sonra, kürtlerin hayatı sonsuza kadar değişti.",
+        "'i tanistirdiktan sonra, kurtlerin hayati sonsuza kadar degisti.",
       ],
     ],
     [
       [
-        "İmam Hatipler, öğrencilerinin başarılı olması için onlara ne öğretir?",
+        "İmam Hatipler, ogrencilerinin basarili olmasi için onlara ne ogretir?",
       ],
       [
         {
@@ -223,9 +222,9 @@
         ".",
       ],
     ],
-    [["Tuvaletim gelmedi bir türlü."], ["Ben de", {}, "yaptım."]],
+    [["Tuvaletim gelmedi bir turlu."], ["Ben de", {}, "yaptim."]],
     [
-      ["Kılıçdaroğlu şu an ne hakkında düşünüyor?"],
+      ["Kiliçdaroglu su an ne hakkinda dusunuyor?"],
       [
         {
           transform: "Capitalize",
@@ -233,19 +232,19 @@
         ".",
       ],
     ],
-    [["Tokatlılar ", {}, "sever."]],
+    [["Tokatlilar ", {}, "sever."]],
     [
       [
         {
           transform: "Capitalize",
         },
-        "Burası muştur, yolu",
+        "Burasi mustur, yolu",
         {},
         "tur.",
       ],
     ],
     [
-      ["Neden aynı hataları tekrar tekrar yapıyorum?"],
+      ["Neden ayni hatalari tekrar tekrar yapiyorum?"],
       [
         {
           transform: "Capitalize",
@@ -253,9 +252,9 @@
         ".",
       ],
     ],
-    [["Bir biberon buluşması ", {}, "olmazsa eksik kalır."]],
+    [["Bir biberon bulusmasi ", {}, "olmazsa eksik kalir."]],
     [
-      ["RTLeyin lütfen destek için"],
+      ["RTLeyin lutfen destek için"],
       [
         "#YETER",
         {
@@ -265,14 +264,14 @@
     ],
     [
       [
-        "Eğlenceli bir öneri: Evleneceğiniz hanım, sizden yüzük beklerken onu yüzük yerine",
+        "Eglenceli bir oneri: Evleneceginiz hanim, sizden yuzuk beklerken onu yuzuk yerine",
         {},
-        " ile şaşırtabilirsiniz.",
+        " ile sasirtabilirsiniz.",
       ],
     ],
-    [["Okul gezimiz ", {}, "yüzünden mahvoldu amk."]],
+    [["Okul gezimiz ", {}, "yuzunden mahvoldu amk."]],
     [
-      ["Bir kızın en iyi arkadaşı nedir?"],
+      ["Bir kizin en iyi arkadasi nedir?"],
       [
         {
           transform: "Capitalize",
@@ -282,29 +281,29 @@
     ],
     [
       [
-        "Haydar Dümen hocam, bu aralar",
+        "Haydar Dumen hocam, bu aralar",
         {},
-        " konusunda sıkıntı yaşıyorum. Önerinizi alabilir miyim?",
+        " konusunda sikinti yasiyorum. Önerinizi alabilir miyim?",
       ],
     ],
     [
       [
-        "Cem Yılmaz'ın yeni filminde, Ozan Güven farkına varır ki",
+        "Cem Yilmaz'in yeni filminde, Ozan Guven farkina varir ki",
         {},
-        " bunca zamandır ",
+        " bunca zamandir ",
         {},
-        " kılığındaymış.",
+        " kiligindaymis.",
       ],
     ],
     [
       [
-        "Türkiyenin yeni başkanı olduğumda ",
+        "Turkiyenin yeni baskani oldugumda ",
         {},
-        "bakanlığı kuracağım.",
+        "bakanligi kuracagim.",
       ],
     ],
     [
-      ["Çiğ köfteci ali usta yeni tarifinde çiğ köfteye ne koyuyor?"],
+      ["Çig kofteci ali usta yeni tarifinde çig kofteye ne koyuyor?"],
       [
         {
           transform: "Capitalize",
@@ -313,7 +312,7 @@
       ],
     ],
     [
-      ["Tostçu Erol yeni şubesini nerede açıyor"],
+      ["Tostçu Erol yeni subesini nerede açiyor"],
       [
         {
           transform: "Capitalize",
@@ -323,13 +322,13 @@
     ],
     [
       [
-        "Eğer ",
+        "Eger ",
         {
           transform: "UpperCase",
         },
         ",",
       ],
-      ["seviyorsan sen sanırım burdurlusun."],
+      ["seviyorsan sen sanirim burdurlusun."],
     ],
     [
       ["Şiir yaz."],
@@ -353,7 +352,7 @@
       ],
     ],
     [
-      ["Bihter ziyagili ne üzdü?"],
+      ["Bihter ziyagili ne uzdu?"],
       [
         {
           transform: "Capitalize",
@@ -363,12 +362,12 @@
     ],
     [
       [
-        "Sanayi 313'e hoşgeldiniz, siparişlerinizi almadan önce size bi ",
+        "Sanayi 313'e hosgeldiniz, siparislerinizi almadan once size bi ",
         {},
         "ikram edelim mi?",
       ],
     ],
-    [["Keşke Acun Ilıcalı bana ", {}, " verseydi de kendime gelseydim."]],
+    [["Keske Acun Ilicali bana ", {}, " verseydi de kendime gelseydim."]],
     [
       [
         {
@@ -376,17 +375,17 @@
         },
         ".",
       ],
-      ["Sıçtık"],
+      ["Siçtik"],
     ],
     [
       [
         "Flash tv'nin yeni dizisi ",
         {},
-        "ile ilgili sıkıntı yaşayan gençleri anlatıyor.",
+        "ile ilgili sikinti yasayan gençleri anlatiyor.",
       ],
     ],
     [
-      ["Annane neyi iğrenç ama bir yandan da ilginç bulurdu?"],
+      ["Annane neyi igrenç ama bir yandan da ilginç bulurdu?"],
       [
         {
           transform: "Capitalize",
@@ -401,12 +400,12 @@
         },
         ".",
       ],
-      ["Efsane olaydı."],
+      ["Efsane olaydi."],
     ],
-    [["ben", {}, " görene kadar ", {}, "hiç inanmamıştım."]],
-    [["Seks yaparken ", {}, "hakkında düşünmeyi severim."]],
+    [["ben", {}, " gorene kadar ", {}, "hiç inanmamistim."]],
+    [["Seks yaparken ", {}, "hakkinda dusunmeyi severim."]],
     [
-      ["Son ilişkimi ne bitirdi?"],
+      ["Son iliskimi ne bitirdi?"],
       [
         {
           transform: "Capitalize",
@@ -427,11 +426,11 @@
       [
         "Ya biliyorum beyler ben size ",
         {},
-        "yapalım dedim ama sanki yapmasak daha iyi olacak.",
+        "yapalim dedim ama sanki yapmasak daha iyi olacak.",
       ],
     ],
     [
-      ["Neden yapış yapışım?"],
+      ["Neden yapis yapisim?"],
       [
         {
           transform: "Capitalize",
@@ -441,9 +440,9 @@
     ],
     [
       [
-        "Doktor değilim ancak sizin hastalığınızın “",
+        "Doktor degilim ancak sizin hastaliginizin “",
         {},
-        "olduğundan eminim.”",
+        "oldugundan eminim.”",
       ],
     ],
     [
@@ -452,18 +451,18 @@
         {
           transform: "Capitalize",
         },
-        "kadıköyde bulacağımı hiç düşünmezdim.",
+        "kadikoyde bulacagimi hiç dusunmezdim.",
       ],
     ],
     [
       [
-        "İbrahim Tatlıses bunca zamandır çıkardığı müziklerde başlıca esin kaynağının ",
+        "İbrahim Tatlises bunca zamandir çikardigi muziklerde baslica esin kaynaginin ",
         {},
-        "olduğunu söyler.",
+        "oldugunu soyler.",
       ],
     ],
     [
-      ["İlk buluşmada seksi garantilemek için ne yaparsın?"],
+      ["İlk bulusmada seksi garantilemek için ne yaparsin?"],
       [
         {
           transform: "Capitalize",
@@ -477,21 +476,21 @@
         {},
         " içine",
         {},
-        "koyamazmışız.",
+        "koyamazmisiz.",
       ],
       ["bence koyabiliriz."],
     ],
-    [["ATV'den yeni bir efsane “", {}, " ve ", {}, "entrika dolu bir aşk hikayesi.”"]],
+    [["ATV'den yeni bir efsane “", {}, " ve ", {}, "entrika dolu bir ask hikayesi.”"]],
     [
       [
         {
           transform: "Capitalize",
         },
-        ": çocuk test etmiş. Anne onaylamış.",
+        ": çocuk test etmis. Anne onaylamis.",
       ],
     ],
     [
-      ["Geceleri neden uyuyamıyorum?"],
+      ["Geceleri neden uyuyamiyorum?"],
       [
         {
           transform: "Capitalize",
@@ -510,7 +509,7 @@
     ],
     [
       [
-        "20 yıllık iktidardan sonra nasıl meclisten gittiler?",
+        "20 yillik iktidardan sonra nasil meclisten gittiler?",
       ],
       [
         {
@@ -520,27 +519,27 @@
       ],
     ],
     [
-      ["Allahım, allahım"],
-      ["Ateşlere yürüyorum"],
-      ["Allahım, acı ile, ", {}, "ile büyüyorum."],
+      ["Allahim, allahim"],
+      ["Ateslere yuruyorum"],
+      ["Allahim, aci ile, ", {}, "ile buyuyorum."],
     ],
-    [["Devlet tiyatrolarına bu ay, ", {}, ": Müzikali geliyor."]],
+    [["Devlet tiyatrolarina bu ay, ", {}, ": Muzikali geliyor."]],
     [
-      ["Buralara yaz günü kar yağıyor canım"],
+      ["Buralara yaz gunu kar yagiyor canim"],
       ["Ölene kadar seni bekleyemem"],
       ["Ona buna benzemem, oyuna gelmem"],
       ["Senin için", {}, "yiyemem."],
     ],
-    [["Ezel, ramiz dayın olarak ", {}, "sana vasiyetimdir."]],
+    [["Ezel, ramiz dayin olarak ", {}, "sana vasiyetimdir."]],
     [
       [
-        "Ömer Çelakıl son çalışmasında ",
+        "Ömer Çelakil son çalismasinda ",
         {},
-        "ve daha bir çok benzerinin gerçek olduğunu iddia etti.",
+        "ve daha bir çok benzerinin gerçek oldugunu iddia etti.",
       ],
     ],
     [
-      ["Türk süperkahraman ve onun yancısı?"],
+      ["Turk superkahraman ve onun yancisi?"],
       [
         {
           transform: "Capitalize",
@@ -552,24 +551,24 @@
         ".",
       ],
     ],
-    [["7'den yetmişe, herkesin okuması gereken bir kitap ", {}, "."]],
+    [["7'den yetmise, herkesin okumasi gereken bir kitap ", {}, "."]],
     [
       [
-        "Sayısal lotoyu kazanırsam eğer ",
+        "Sayisal lotoyu kazanirsam eger ",
         {},
-        "anısına büyük bir heykel dikeceğim.",
+        "anisina buyuk bir heykel dikecegim.",
       ],
     ],
     [
       [
-        "Günümüzün tarihçileri ",
+        "Gunumuzun tarihçileri ",
         {},
-        " konusunu hala tartışmalı bir konu olarak görür.",
+        " konusunu hala tartismali bir konu olarak gorur.",
       ],
     ],
     [
-      ["Savaş!"],
-      ["Ne anlamı var bu kadar savaşın?"],
+      ["Savas!"],
+      ["Ne anlami var bu kadar savasin?"],
       [
         {
           transform: "Capitalize",
@@ -580,150 +579,150 @@
   ],
   responses: [
     "sessizlik",
-    "akp hükümeti karar mekanizması",
-    "şeker kaplamalı leblebi",
-    "açlık",
+    "akp hukumeti karar mekanizmasi",
+    "seker kaplamali leblebi",
+    "açlik",
     "et yiyen bakteri",
     "uçan sik sinekleri",
-    "kahrından ölmek",
-    "ballı katmer",
-    "cin çıkaran hocalar",
-    "bir oda dolu aç amelenin yanında çıplak 1 saat kalmak",
+    "kahrindan olmek",
+    "balli katmer",
+    "cin çikaran hocalar",
+    "bir oda dolu aç amelenin yaninda çiplak 1 saat kalmak",
     "tevbe etmek",
     "Hande Ataizi",
     "72 bakire",
-    "canlı yayında",
-    "zaman yolculuğu ikilemi",
-    "otantik gürcü yemeği",
-    "suç işlemek",
+    "canli yayinda",
+    "zaman yolculugu ikilemi",
+    "otantik gurcu yemegi",
+    "suç islemek",
     "tokatlayarak emir verme",
-    "engelli bırakacak bir borç",
-    "ailevi sıkıntılar",
+    "engelli birakacak bir borç",
+    "ailevi sikintilar",
     "bir grup ateist",
-    "7 Ceddi uykudan uyandıracak dev bir osuruk",
+    "7 Ceddi uykudan uyandiracak dev bir osuruk",
     "Ahmet Necdet Sezer",
-    "Acun Ilıcalı",
-    "Altıma lavaş üstüme soğan çünkü ber bir adana kebabım",
+    "Acun Ilicali",
+    "Altima lavas ustume sogan çunku ber bir adana kebabim",
     "yumurtlamak",
     "soyunup trt-3 izleme",
-    "önemsiyormuş gibi yapma",
-    "büyük hedefleri var ama uğraşmıyor",
-    "neneyi çıplak görmek",
-    "sümük",
-    "evrenin kaçınılmaz sonuna",
-    "bir çocuğun doğmasının mukadderliği",
+    "onemsiyormus gibi yapma",
+    "buyuk hedefleri var ama ugrasmiyor",
+    "neneyi çiplak gormek",
+    "sumuk",
+    "evrenin kaçinilmaz sonuna",
+    "bir çocugun dogmasinin mukadderligi",
     "solumayan cinsten dev bir solucan",
-    "çıkarıp masaya vurma",
+    "çikarip masaya vurma",
     "akp",
-    "Karadenizi akdeniz ile birleştiren bir grideniz projesi",
-    "Ekrem Usta Döner 1 Kilo",
+    "Karadenizi akdeniz ile birlestiren bir grideniz projesi",
+    "Ekrem Usta Doner 1 Kilo",
     "Piril deterjan",
     "bayram pidesi",
-    "ağır, yumuşak misyoner seks",
+    "agir, yumusak misyoner seks",
     "Ezhel",
-    "tarım ve orman",
-    "Asgari ücretin 4te biri",
-    "Ayakkabı çekeceği",
-    "Yırtık bir muşamba",
+    "tarim ve orman",
+    "Asgari ucretin 4te biri",
+    "Ayakkabi çekecegi",
+    "Yirtik bir musamba",
     "Mehmet Ali Erbil ile seks",
-    "Nihat doğan'ın hassas kalbi",
+    "Nihat dogan'in hassas kalbi",
     "Niksar",
-    "Bilkent Yurtları",
-    "2 Kiloluk zenci bir bebek (annesi bok sanmış)",
-    "cinsel voleybol vuruşu",
-    "Amelie peruğu takmış bir Serdar Ortaç",
-    "her şeyi yerine koymak",
-    "kırılgan maskülenlik",
-    "ye ye doyma sınırsız dilim pizza",
-    "ölmek üzere bir yaşlı dede",
-    "Kenan doğulu",
-    "Erimiş çifte kaşar",
-    "Kurbanlık dana saldırısı",
-    "7 kişi öldü 3 de yaralı var",
-    "Türkiye emlak piyasası",
-    "alkol bağımlılığı",
+    "Bilkent Yurtlari",
+    "2 Kiloluk zenci bir bebek (annesi bok sanmis)",
+    "cinsel voleybol vurusu",
+    "Amelie perugu takmis bir Serdar Ortaç",
+    "her seyi yerine koymak",
+    "kirilgan maskulenlik",
+    "ye ye doyma sinirsiz dilim pizza",
+    "olmek uzere bir yasli dede",
+    "Kenan dogulu",
+    "Erimis çifte kasar",
+    "Kurbanlik dana saldirisi",
+    "7 kisi oldu 3 de yarali var",
+    "Turkiye emlak piyasasi",
+    "alkol bagimliligi",
     "durumumuz eyi diyen sokaktaki amca",
-    "Aynaya bakıp, kendi kendine motivasyonel konuşma verme",
-    "sıç ve çalkala",
+    "Aynaya bakip, kendi kendine motivasyonel konusma verme",
+    "siç ve çalkala",
     "dev ve siyah bir hurma",
     "kendi edip kendi bulan",
     "bir kar tanesii ooo",
     "kon dilimin ucuna",
-    "kur'an ı kerim",
+    "kur'an i kerim",
     "fenasi kerim",
-    "Osmanlı yeniçeri pornosu",
+    "Osmanli yeniçeri pornosu",
     "erken evlilik",
-    "Kılıçdaroğlu",
-    "senin garip kardeşin",
-    "titreşimli dildo",
-    "kan gölü",
-    "5 saatten fazla süren bir ereksiyon",
-    "Mahsun Kırmızıgül ve Orhan Gencebay ile üçlü",
-    "geçmiş",
-    "cinsel organlarım",
-    "sonsuz ishal şelalesi",
+    "Kiliçdaroglu",
+    "senin garip kardesin",
+    "titresimli dildo",
+    "kan golu",
+    "5 saatten fazla suren bir ereksiyon",
+    "Mahsun Kirmizigul ve Orhan Gencebay ile uçlu",
+    "geçmis",
+    "cinsel organlarim",
+    "sonsuz ishal selalesi",
     "bilim",
-    "karşılıksız oral seks",
-    "uçamayan üzgün bir kuş",
+    "karsiliksiz oral seks",
+    "uçamayan uzgun bir kus",
     "Mmmph diye enseden koklamak",
-    "meme ucundan düşmüş piercing tanesi",
-    "dengeli bir kahvaltı",
-    "1915 yılında göç eden ermeniler",
-    "pizza siparişi",
-    "Geçmeyen orgazm suratı hastalığı",
-    "Zemzem suyunun ferahlatan tadı",
+    "meme ucundan dusmus piercing tanesi",
+    "dengeli bir kahvalti",
+    "1915 yilinda goç eden ermeniler",
+    "pizza siparisi",
+    "Geçmeyen orgazm surati hastaligi",
+    "Zemzem suyunun ferahlatan tadi",
     "kimyasal silahlar",
-    "Bülent Ersoy",
+    "Bulent Ersoy",
     "osuruk mu yoksa bir parça bok mu diye ikilem",
     "muzlar",
-    "pasif agresif otobüs şoförü",
-    "Beypazarı maden suyu ferahlığı",
-    "Nargile cafe pantalonu paçası",
-    "hafif bi altına kaçırmak",
-    "rüyalanmak",
+    "pasif agresif otobus soforu",
+    "Beypazari maden suyu ferahligi",
+    "Nargile cafe pantalonu paçasi",
+    "hafif bi altina kaçirmak",
+    "ruyalanmak",
     "yahudiler",
-    "benim orospu çocuğu kardeşim",
-    "güçlü bacaklar",
-    "şu kaşarlar",
+    "benim orospu çocugu kardesim",
+    "guçlu bacaklar",
+    "su kasarlar",
     "bayburttaki tek gey adam",
     "ilk defa seks yapmak",
-    "İsmet İnönü",
-    "Anneannenin alnından öpüp hayat destek ünitesinin fişini çekmek",
+    "İsmet İnonu",
+    "Anneannenin alnindan opup hayat destek unitesinin fisini çekmek",
     "cinsel gerilim",
-    "Arka sokaklar Rıza Baba",
-    "ah be suat, ah be kızım",
-    "aynı anda kusup sıçmanın verdiği acı",
-    "Seğmenler Parkı",
+    "Arka sokaklar Riza Baba",
+    "ah be suat, ah be kizim",
+    "ayni anda kusup siçmanin verdigi aci",
+    "Segmenler Parki",
     "Zengin",
-    "tatlı bir intikam",
+    "tatli bir intikam",
     "Liberaller",
-    "Saçını koklayıp, yanağını öpmek",
-    "çok daha genç bir kadın",
+    "Saçini koklayip, yanagini opmek",
+    "çok daha genç bir kadin",
     "fakirlik",
-    "THY pilotları",
+    "THY pilotlari",
     "Vefad Eylemek",
-    "Lübnanlı lezbiyenler",
-    "Kürt",
-    "Türk",
-    "Afganlı puştlar",
-    "Burhan Altıntop",
+    "Lubnanli lezbiyenler",
+    "Kurt",
+    "Turk",
+    "Afganli pustlar",
+    "Burhan Altintop",
     "Vajina beyazlatma",
     "Denemek Bedava",
-    "bana en yakın olan insanların canını yakıyorum",
-    "doğru şeyi yapmak",
-    "islamın 7 şartı",
+    "bana en yakin olan insanlarin canini yakiyorum",
+    "dogru seyi yapmak",
+    "islamin 7 sarti",
     "emzirmek",
-    "dünya barışı",
-    "Kıvanç Tatlıtuğ",
-    "yakın arkadaşımın götünden kokain çekmek",
-    "Hakan: Muhafız",
-    "bir meme dışarda",
+    "dunya barisi",
+    "Kivanç Tatlitug",
+    "yakin arkadasimin gotunden kokain çekmek",
+    "Hakan: Muhafiz",
+    "bir meme disarda",
     "Aleyna Tilki",
-    "sabah erken kalkıp işe gidememek",
-    "Cinsel zılgıt çekmek",
+    "sabah erken kalkip ise gidememek",
+    "Cinsel zilgit çekmek",
     "ergenlik",
     "hayaletler",
-    "üç kilo taşşak",
+    "uç kilo tassak",
     "fucking my sister",
     "braiding three penises into a Twizzler",
     "vigorous jazz hands",
