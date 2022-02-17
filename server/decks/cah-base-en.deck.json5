@@ -1,3 +1,4 @@
+// Cards Against Humanity, https://cardsagainsthumanity.com/
 // Used under a Creative Commons BY-NC-SA 2.0 license, https://creativecommons.org/licenses/by-nc-sa/2.0/
 {
   name: "Cards Against Humanity",
@@ -6,20 +7,20 @@
   calls: [
     [
       [
-        "Selam Eksi Sozluk Ben ",
+        "Hey Reddit! I’m ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["Sorularinizi alayim."],
+      ["Ask me anything."],
     ],
     [
-      ["Ekstra Eksra Serpme Kahvalti!"],
-      ["Serpme kahvalti gibi ama", {}, "ile birlikte!"],
+      ["Introducing X-treme Baseball!"],
+      ["It’s like baseball, but with ", {}, "!"],
     ],
     [
-      ["Batmanin mahçup oldugu zevk"],
+      ["What is Batman’s guilty pleasure?"],
       [
         {
           transform: "Capitalize",
@@ -27,12 +28,12 @@
         ".",
       ],
     ],
-    [["RTÜK artik televizyonda ", {}, "yasagini kaldiriyor"]],
+    [["TSA guidelines now prohibit ", {}, " on airplanes."]],
     [
       [
-        "Sirada Sabahattin Ali'den ",
+        "Next from J.K. Rowling: ",
         {
-          text: "Madonna Kurk mantosuyla ",
+          text: "Harry Potter and the Chamber of ",
           style: "Em",
         },
         {
@@ -43,8 +44,8 @@
       ],
     ],
     [
-      ["Evet dogru. Ben", {}, "kisisini oldurdum"],
-      ["Nasil mi yaptim?"],
+      ["That’s right, I killed ", {}, "."],
+      ["How, you ask?"],
       [
         {
           transform: "Capitalize",
@@ -54,15 +55,15 @@
     ],
     [
       [
-        "Ögretmenim ozur dilerim odevimi yetistiremedim çunku ",
+        "I’m sorry professor, but I couldn’t complete my homework because of ",
         {},
         ".",
       ],
     ],
-    [["Ve en iyi ", {}, " için altin portakal odulu ", {}, "gidiyor"]],
-    [["Reis banyoya sakin girme"], ["Orada ", {}, "var"]],
+    [["And the Academy Award for ", {}, " goes to ", {}, "."]],
+    [["Dude, do not go in that bathroom."], ["There’s ", {}, " in there."]],
     [
-      ["Bakireligimi nasil mi kaybettim?"],
+      ["How did I lose my virginity?"],
       [
         {
           transform: "Capitalize",
@@ -72,27 +73,27 @@
     ],
     [
       [
-        "Bizim zamanimizda çocuklar ",
+        "It’s a pity that kids these days are all getting involved with ",
         {},
-        "ile ugrasirdi. Nerede o eski gunler.",
+        ".",
       ],
     ],
     [
       [
-        "1. Adim: ",
+        "Step 1: ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
       [
-        "2. Adim: ",
+        "Step 2: ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["3. Adim: Zafer."],
+      ["Step 3: Profit."],
     ],
     [
       [
@@ -101,26 +102,26 @@
         },
         ".",
       ],
-      ["Ye ye doyamazsin"],
+      ["Becha can’t have just one!"],
     ],
-    [["Hocamlar benim kafamin iyi olmasi için uyusturucuya gerek yok. Ben", {}, "ile uçuyorum."]],
+    [["Kids, I don’t need drugs to get high. I’m high on ", {}, "."]],
     [["For my next trick, I will pull ", {}, " out of ", {}, "."]],
     [
       [
-        "Turkler ile yunanlar kavga içindeyken, azerbeycan hukumeti bu urune 1 milyar dolar yatirim yapti ",
+        "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ",
         {},
         ".",
       ],
     ],
     [
       [
-        "TRT 1'in yeni dizisinde Kurtulus Ertugrul ",
+        "In the new Disney Channel Original Movie, Hannah Montana struggles with ",
         {},
-        " ile ilk defa mucadele edecek",
+        " for the first time.",
       ],
     ],
     [
-      ["Benim gizli gucum ne?"],
+      ["What’s my secret power?"],
       [
         {
           transform: "Capitalize",
@@ -130,9 +131,9 @@
     ],
     [
       [
-        "Bu hafta diyetteyim, sadece detox suyu ve ",
+        "I’m going on a cleanse this week. Nothing but kale juice and ",
         {},
-        "yiyorum.",
+        ".",
       ],
     ],
     [
@@ -155,20 +156,20 @@
     ],
     [
       [
-        "Bu devasa ",
+        "When Pharaoh remained unmoved, Moses called down a Plague of ",
         {},
-        "gorse Ataturk mezarinda ters donerdi",
+        ".",
       ],
     ],
     [
       [
-        "Ulan bir kere de tesekkur et be, bir kere de de ki ",
+        "Just once, I’d like to hear you say “Thanks, Mom. Thanks for ",
         {},
-        "için tesekkur ederim”",
+        ".”",
       ],
     ],
     [
-      ["Baba, annem neden agliyor?"],
+      ["Daddy, why is mommy crying?"],
       [
         {
           transform: "Capitalize",
@@ -176,44 +177,44 @@
         ".",
       ],
     ],
-    [["Raki masasinda 4 saatten sonra, ", {}, {}, "na donustu" "."]],
-    [["Evliliklerin %50si ", {}, "yuzunden sonlanir."]],
+    [["When I was tripping on acid, ", {}, " turned into ", {}, "."]],
+    [["50% of all marriages end in ", {}, "."]],
     [
       [
-        "Ey mutis osmanli halkim, bu yuzyil bitmeden ",
+        "My fellow Americans: Before this decade is out, we ",
         {
-          text: "ecnebi topraklarina",
+          text: "will",
           style: "Em",
         },
-        ", kocaman ",
+        ", have ",
         {},
-        " dikecegiz.",
+        " on the moon.",
       ],
     ],
     [
       [
-        "Öyle bir geçer zaman kinin yeni sezonunda ali kaptan ",
+        "This season at Steppenwolf, Samuel Beckett’s classic existential play: ",
         {
-          text: "",
+          text: "Waiting for",
           style: "Em",
         },
         {
           style: "Em",
         },
-        "dovuyor.",
+        ".",
       ],
     ],
-    [["Kurban bayramlarinda ekonomik durumdan dolayi bundan sonra ", {}, "kesilecek."]],
+    [["Instead of coal, Santa now gives the bad children ", {}, "."]],
     [
       [
-        "Turkler onlarla ",
+        "Life for American Indians was forever changed when the White Man introduced them to ",
         {},
-        "'i tanistirdiktan sonra, kurtlerin hayati sonsuza kadar degisti.",
+        ".",
       ],
     ],
     [
       [
-        "İmam Hatipler, ogrencilerinin basarili olmasi için onlara ne ogretir?",
+        "What’s Teach for America using to inspire inner city students to succeed?",
       ],
       [
         {
@@ -222,9 +223,9 @@
         ".",
       ],
     ],
-    [["Tuvaletim gelmedi bir turlu."], ["Ben de", {}, "yaptim."]],
+    [["Maybe she’s born with it."], ["Maybe it’s ", {}, "."]],
     [
-      ["Kiliçdaroglu su an ne hakkinda dusunuyor?"],
+      ["What is George W. Bush thinking about right now?"],
       [
         {
           transform: "Capitalize",
@@ -232,19 +233,19 @@
         ".",
       ],
     ],
-    [["Tokatlilar ", {}, "sever."]],
+    [["White people like ", {}, "."]],
     [
       [
         {
           transform: "Capitalize",
         },
-        "Burasi mustur, yolu",
+        " is a slippery slope that leads to ",
         {},
-        "tur.",
+        ".",
       ],
     ],
     [
-      ["Neden ayni hatalari tekrar tekrar yapiyorum?"],
+      ["Why do I hurt all over?"],
       [
         {
           transform: "Capitalize",
@@ -252,11 +253,11 @@
         ".",
       ],
     ],
-    [["Bir biberon bulusmasi ", {}, "olmazsa eksik kalir."]],
+    [["A romantic, candlelit dinner would be incomplete without ", {}, "."]],
     [
-      ["RTLeyin lutfen destek için"],
+      ["Just saw this upsetting video! Please retweet!!"],
       [
-        "#YETER",
+        "#stop",
         {
           transform: "Capitalize",
         },
@@ -264,55 +265,14 @@
     ],
     [
       [
-        "Eglenceli bir oneri: Evleneceginiz hanim, sizden yuzuk beklerken onu yuzuk yerine",
+        "Fun tip! When your man asks you to go down on him, try surprising him with ",
         {},
-        " ile sasirtabilirsiniz.",
+        " instead.",
       ],
     ],
-    [["Okul gezimiz ", {}, "yuzunden mahvoldu amk."]],
+    [["The class field trip was completely ruined by ", {}, "."]],
     [
-      ["Bir kizin en iyi arkadasi nedir?"],
-      [
-        {
-          transform: "Capitalize",
-        },
-        ".",
-      ],
-    ],
-    [
-      [
-        "Haydar Dumen hocam, bu aralar",
-        {},
-        " konusunda sikinti yasiyorum. Önerinizi alabilir miyim?",
-      ],
-    ],
-    [
-      [
-        "Cem Yilmaz'in yeni filminde, Ozan Guven farkina varir ki",
-        {},
-        " bunca zamandir ",
-        {},
-        " kiligindaymis.",
-      ],
-    ],
-    [
-      [
-        "Turkiyenin yeni baskani oldugumda ",
-        {},
-        "bakanligi kuracagim.",
-      ],
-    ],
-    [
-      ["Çig kofteci ali usta yeni tarifinde çig kofteye ne koyuyor?"],
-      [
-        {
-          transform: "Capitalize",
-        },
-        ".",
-      ],
-    ],
-    [
-      ["Tostçu Erol yeni subesini nerede açiyor"],
+      ["What’s a girl’s best friend?"],
       [
         {
           transform: "Capitalize",
@@ -322,16 +282,57 @@
     ],
     [
       [
-        "Eger ",
+        "Dear Abby, I’m having some trouble with ",
+        {},
+        " and would like your advice.",
+      ],
+    ],
+    [
+      [
+        "In M. Night Shyamalan’s new movie, Bruce Willis discovers that ",
+        {},
+        " had really been ",
+        {},
+        " all along.",
+      ],
+    ],
+    [
+      [
+        "When I am President of the United States, I will create the Department of ",
+        {},
+        ".",
+      ],
+    ],
+    [
+      ["What are my parents hiding from me?"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      ["What never fails to liven up the party?"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      [
+        "IF you like ",
         {
           transform: "UpperCase",
         },
         ",",
       ],
-      ["seviyorsan sen sanirim burdurlusun."],
+      ["YOU MIGHT BE A REDNECK."],
     ],
     [
-      ["Şiir yaz."],
+      ["Make a haiku."],
       [
         {
           transform: "Capitalize",
@@ -352,7 +353,7 @@
       ],
     ],
     [
-      ["Bihter ziyagili ne uzdu?"],
+      ["What made my first kiss so awkward?"],
       [
         {
           transform: "Capitalize",
@@ -362,12 +363,12 @@
     ],
     [
       [
-        "Sanayi 313'e hosgeldiniz, siparislerinizi almadan once size bi ",
+        "Hey guys, welcome to Chili’s! Would you like to start the night off right with ",
         {},
-        "ikram edelim mi?",
+        "?",
       ],
     ],
-    [["Keske Acun Ilicali bana ", {}, " verseydi de kendime gelseydim."]],
+    [["I got 99 problems but ", {}, " ain’t one."]],
     [
       [
         {
@@ -375,17 +376,17 @@
         },
         ".",
       ],
-      ["Siçtik"],
+      ["It’s a trap!"],
     ],
     [
       [
-        "Flash tv'nin yeni dizisi ",
+        "Bravo’s new reality show features eight washed-up celebrities living with ",
         {},
-        "ile ilgili sikinti yasayan gençleri anlatiyor.",
+        ".",
       ],
     ],
     [
-      ["Annane neyi igrenç ama bir yandan da ilginç bulurdu?"],
+      ["What would grandma find disturbing, yet oddly charming?"],
       [
         {
           transform: "Capitalize",
@@ -400,12 +401,12 @@
         },
         ".",
       ],
-      ["Efsane olaydi."],
+      ["That was so metal."],
     ],
-    [["ben", {}, " gorene kadar ", {}, "hiç inanmamistim."]],
-    [["Seks yaparken ", {}, "hakkinda dusunmeyi severim."]],
+    [["I never truly understood ", {}, " until I encountered ", {}, "."]],
+    [["During sex, I like to think about ", {}, "."]],
     [
-      ["Son iliskimi ne bitirdi?"],
+      ["What ended my last relationship?"],
       [
         {
           transform: "Capitalize",
@@ -414,7 +415,7 @@
       ],
     ],
     [
-      ["Bu ses de ne?"],
+      ["What’s that sound?"],
       [
         {
           transform: "Capitalize",
@@ -424,13 +425,13 @@
     ],
     [
       [
-        "Ya biliyorum beyler ben size ",
+        "Uh, hey guys, I know this was my idea, but I’m having serious doubts about ",
         {},
-        "yapalim dedim ama sanki yapmasak daha iyi olacak.",
+        ".",
       ],
     ],
     [
-      ["Neden yapis yapisim?"],
+      ["Why am I sticky?"],
       [
         {
           transform: "Capitalize",
@@ -440,29 +441,13 @@
     ],
     [
       [
-        "Doktor degilim ancak sizin hastaliginizin “",
+        "I’m no doctor but I’m pretty sure what you’re suffering from is called “",
         {},
-        "oldugundan eminim.”",
+        ".”",
       ],
     ],
     [
-      ["Ne?"],
-      [
-        {
-          transform: "Capitalize",
-        },
-        "kadikoyde bulacagimi hiç dusunmezdim.",
-      ],
-    ],
-    [
-      [
-        "İbrahim Tatlises bunca zamandir çikardigi muziklerde baslica esin kaynaginin ",
-        {},
-        "oldugunu soyler.",
-      ],
-    ],
-    [
-      ["İlk bulusmada seksi garantilemek için ne yaparsin?"],
+      ["What’s there a ton of in heaven?"],
       [
         {
           transform: "Capitalize",
@@ -472,34 +457,13 @@
     ],
     [
       [
-        "Bize mal dediler, dediler ki ",
+        "After four platinum albums and three Grammys, it’s time to get back to my roots, to what inspired me to make music in the first place: ",
         {},
-        " içine",
-        {},
-        "koyamazmisiz.",
-      ],
-      ["bence koyabiliriz."],
-    ],
-    [["ATV'den yeni bir efsane “", {}, " ve ", {}, "entrika dolu bir ask hikayesi.”"]],
-    [
-      [
-        {
-          transform: "Capitalize",
-        },
-        ": çocuk test etmis. Anne onaylamis.",
-      ],
-    ],
-    [
-      ["Geceleri neden uyuyamiyorum?"],
-      [
-        {
-          transform: "Capitalize",
-        },
         ".",
       ],
     ],
     [
-      ["Bu koku da ne?"],
+      ["What will always get you laid?"],
       [
         {
           transform: "Capitalize",
@@ -509,7 +473,44 @@
     ],
     [
       [
-        "20 yillik iktidardan sonra nasil meclisten gittiler?",
+        "They said we were crazy. They said we couldn’t put ",
+        {},
+        " inside of ",
+        {},
+        ".",
+      ],
+      ["They were wrong."],
+    ],
+    [["Lifetime® presents “", {}, ": the Story of ", {}, ".”"]],
+    [
+      [
+        {
+          transform: "Capitalize",
+        },
+        ": kid-tested, mother-approved.",
+      ],
+    ],
+    [
+      ["Why can’t I sleep at night?"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      ["What’s that smell?"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      [
+        "After eight years in the White House, how is Obama finally letting loose?",
       ],
       [
         {
@@ -519,27 +520,27 @@
       ],
     ],
     [
-      ["Allahim, allahim"],
-      ["Ateslere yuruyorum"],
-      ["Allahim, aci ile, ", {}, "ile buyuyorum."],
+      ["This is the way the world ends"],
+      ["This is the way the world ends"],
+      ["Not with a bang but with ", {}, "."],
     ],
-    [["Devlet tiyatrolarina bu ay, ", {}, ": Muzikali geliyor."]],
+    [["Coming to Broadway this season, ", {}, ": The Musical."]],
     [
-      ["Buralara yaz gunu kar yagiyor canim"],
-      ["Ölene kadar seni bekleyemem"],
-      ["Ona buna benzemem, oyuna gelmem"],
-      ["Senin için", {}, "yiyemem."],
+      ["Here is the church"],
+      ["Here is the steeple"],
+      ["Open the doors"],
+      ["And there is", {}, "."],
     ],
-    [["Ezel, ramiz dayin olarak ", {}, "sana vasiyetimdir."]],
+    [["But before I kill you, Mr. Bond, I must show you ", {}, "."]],
     [
       [
-        "Ömer Çelakil son çalismasinda ",
+        "Studies show that lab rats navigate mazes 50% faster after being exposed to ",
         {},
-        "ve daha bir çok benzerinin gerçek oldugunu iddia etti.",
+        ".",
       ],
     ],
     [
-      ["Turk superkahraman ve onun yancisi?"],
+      ["What’s the next superhero/sidekick duo?"],
       [
         {
           transform: "Capitalize",
@@ -551,24 +552,24 @@
         ".",
       ],
     ],
-    [["7'den yetmise, herkesin okumasi gereken bir kitap ", {}, "."]],
+    [["Next on ESPN2, the World Series of ", {}, "."]],
     [
       [
-        "Sayisal lotoyu kazanirsam eger ",
+        "When I am a billionaire, I shall erect a 50-foot statue to commemorate ",
         {},
-        "anisina buyuk bir heykel dikecegim.",
+        ".",
       ],
     ],
     [
       [
-        "Gunumuzun tarihçileri ",
+        "Military historians remember Alexander the Great for his brilliant use of ",
         {},
-        " konusunu hala tartismali bir konu olarak gorur.",
+        " against the Persians.",
       ],
     ],
     [
-      ["Savas!"],
-      ["Ne anlami var bu kadar savasin?"],
+      ["War!"],
+      ["What is it good for?"],
       [
         {
           transform: "Capitalize",
@@ -578,151 +579,151 @@
     ],
   ],
   responses: [
-    "sessizlik",
-    "akp hukumeti karar mekanizmasi",
-    "seker kaplamali leblebi",
-    "açlik",
-    "et yiyen bakteri",
-    "uçan sik sinekleri",
-    "kahrindan olmek",
-    "balli katmer",
-    "cin çikaran hocalar",
-    "bir oda dolu aç amelenin yaninda çiplak 1 saat kalmak",
-    "tevbe etmek",
-    "Hande Ataizi",
-    "72 bakire",
-    "canli yayinda",
-    "zaman yolculugu ikilemi",
-    "otantik gurcu yemegi",
-    "suç islemek",
-    "tokatlayarak emir verme",
-    "engelli birakacak bir borç",
-    "ailevi sikintilar",
-    "bir grup ateist",
-    "7 Ceddi uykudan uyandiracak dev bir osuruk",
-    "Ahmet Necdet Sezer",
-    "Acun Ilicali",
-    "Altima lavas ustume sogan çunku ber bir adana kebabim",
-    "yumurtlamak",
-    "soyunup trt-3 izleme",
-    "onemsiyormus gibi yapma",
-    "buyuk hedefleri var ama ugrasmiyor",
-    "neneyi çiplak gormek",
-    "sumuk",
-    "evrenin kaçinilmaz sonuna",
-    "bir çocugun dogmasinin mukadderligi",
-    "solumayan cinsten dev bir solucan",
-    "çikarip masaya vurma",
-    "akp",
-    "Karadenizi akdeniz ile birlestiren bir grideniz projesi",
-    "Ekrem Usta Doner 1 Kilo",
-    "Piril deterjan",
-    "bayram pidesi",
-    "agir, yumusak misyoner seks",
-    "Ezhel",
-    "tarim ve orman",
-    "Asgari ucretin 4te biri",
-    "Ayakkabi çekecegi",
-    "Yirtik bir musamba",
-    "Mehmet Ali Erbil ile seks",
-    "Nihat dogan'in hassas kalbi",
-    "Niksar",
-    "Bilkent Yurtlari",
-    "2 Kiloluk zenci bir bebek (annesi bok sanmis)",
-    "cinsel voleybol vurusu",
-    "Amelie perugu takmis bir Serdar Ortaç",
-    "her seyi yerine koymak",
-    "kirilgan maskulenlik",
-    "ye ye doyma sinirsiz dilim pizza",
-    "olmek uzere bir yasli dede",
-    "Kenan dogulu",
-    "Erimis çifte kasar",
-    "Kurbanlik dana saldirisi",
-    "7 kisi oldu 3 de yarali var",
-    "Turkiye emlak piyasasi",
-    "alkol bagimliligi",
-    "durumumuz eyi diyen sokaktaki amca",
-    "Aynaya bakip, kendi kendine motivasyonel konusma verme",
-    "siç ve çalkala",
-    "dev ve siyah bir hurma",
-    "kendi edip kendi bulan",
-    "bir kar tanesii ooo",
-    "kon dilimin ucuna",
-    "kur'an i kerim",
-    "fenasi kerim",
-    "Osmanli yeniçeri pornosu",
-    "erken evlilik",
-    "Kiliçdaroglu",
-    "senin garip kardesin",
-    "titresimli dildo",
-    "kan golu",
-    "5 saatten fazla suren bir ereksiyon",
-    "Mahsun Kirmizigul ve Orhan Gencebay ile uçlu",
-    "geçmis",
-    "cinsel organlarim",
-    "sonsuz ishal selalesi",
-    "bilim",
-    "karsiliksiz oral seks",
-    "uçamayan uzgun bir kus",
-    "Mmmph diye enseden koklamak",
-    "meme ucundan dusmus piercing tanesi",
-    "dengeli bir kahvalti",
-    "1915 yilinda goç eden ermeniler",
-    "pizza siparisi",
-    "Geçmeyen orgazm surati hastaligi",
-    "Zemzem suyunun ferahlatan tadi",
-    "kimyasal silahlar",
-    "Bulent Ersoy",
-    "osuruk mu yoksa bir parça bok mu diye ikilem",
-    "muzlar",
-    "pasif agresif otobus soforu",
-    "Beypazari maden suyu ferahligi",
-    "Nargile cafe pantalonu paçasi",
-    "hafif bi altina kaçirmak",
-    "ruyalanmak",
-    "yahudiler",
-    "benim orospu çocugu kardesim",
-    "guçlu bacaklar",
-    "su kasarlar",
-    "bayburttaki tek gey adam",
-    "ilk defa seks yapmak",
-    "İsmet İnonu",
-    "Anneannenin alnindan opup hayat destek unitesinin fisini çekmek",
-    "cinsel gerilim",
-    "Arka sokaklar Riza Baba",
-    "ah be suat, ah be kizim",
-    "ayni anda kusup siçmanin verdigi aci",
-    "Segmenler Parki",
-    "Zengin",
-    "tatli bir intikam",
-    "Liberaller",
-    "Saçini koklayip, yanagini opmek",
-    "çok daha genç bir kadin",
-    "fakirlik",
-    "THY pilotlari",
-    "Vefad Eylemek",
-    "Lubnanli lezbiyenler",
-    "Kurt",
-    "Turk",
-    "Afganli pustlar",
-    "Burhan Altintop",
-    "Vajina beyazlatma",
-    "Denemek Bedava",
-    "bana en yakin olan insanlarin canini yakiyorum",
-    "dogru seyi yapmak",
-    "islamin 7 sarti",
-    "emzirmek",
-    "dunya barisi",
-    "Kivanç Tatlitug",
-    "yakin arkadasimin gotunden kokain çekmek",
-    "Hakan: Muhafiz",
-    "bir meme disarda",
-    "Aleyna Tilki",
-    "sabah erken kalkip ise gidememek",
-    "Cinsel zilgit çekmek",
-    "ergenlik",
-    "hayaletler",
-    "uç kilo tassak",
+    "silence",
+    "the illusion of choice in a late-stage capitalist society",
+    "many bats",
+    "famine",
+    "flesh-eating bacteria",
+    "flying sex snakes",
+    "not giving a shit about the Third World",
+    "magnets",
+    "shapeshifters",
+    "seeing what happens when you lock people in a room with hungry seagulls",
+    "a crucifixion",
+    "Jennifer Lawrence",
+    "72 virgins",
+    "a live studio audience",
+    "a time travel paradox",
+    "authentic Mexican cuisine",
+    "doing crimes",
+    "synergistic management solutions",
+    "crippling debt",
+    "daddy issues",
+    "used panties",
+    "a fart so powerful that it wakes the giants from their thousand-year slumber",
+    "former president George W. Bush",
+    "full frontal nudity",
+    "covering myself with Parmesan cheese and chili flakes because I am pizza",
+    "laying an egg",
+    "getting naked and watching Nickelodeon",
+    "pretending to care",
+    "having big dreams but no realistic way to achieve them",
+    "seeing Grandma naked",
+    "boogers",
+    "the inevitable heat death of the universe",
+    "the miracle of childbirth",
+    "the rapture",
+    "whipping it out",
+    "white privilege",
+    "emerging from the sea and rampaging through Tokyo",
+    "the Hamburglar",
+    "AXE Body Spray",
+    "the Blood of Christ",
+    "soft, kissy missionary sex",
+    "BATMAN!",
+    "agriculture",
+    "barely making $25,000 a year",
+    "natural selection",
+    "coat hanger abortions",
+    "sex with Patrick Stewart",
+    "my abusive boyfriend who really isn’t so bad once you get to know him",
+    "prescription pain killers",
+    "swooping",
+    "mansplaining",
+    "a homoerotic volleyball montage",
+    "Alexandria Ocasio-Cortez",
+    "putting things where they go",
+    "fragile masculinity",
+    "all-you-can-eat shrimp for $8.99",
+    "an old guy who’s almost dead",
+    "Kanye West",
+    "hot cheese",
+    "raptor attacks",
+    "seven dead and three in critical condition",
+    "smegma",
+    "alcoholism",
+    "a middle-aged man on roller skates",
+    "looking in the mirror, applying lipstick, and whispering “tonight, you will have sex with Tom Cruise”",
+    "bingeing and purging",
+    "an oversized lollipop",
+    "self-loathing",
+    "sitting on my face and telling me I’m garbage",
+    "half-assed foreplay",
+    "the Holy Bible",
+    "german dungeon porn",
+    "being on fire",
+    "teenage pregnancy",
+    "Gandhi",
+    "your weird brother",
+    "a Fleshlight®",
+    "a pyramid of severed heads",
+    "an erection that lasts longer than four hours",
+    "a three-way with my wife and Shaquille O’Neal",
+    "the past",
+    "my genitals",
+    "an endless stream of diarrhea",
+    "science",
+    "not reciprocating oral sex",
+    "flightless birds",
+    "a good sniff",
+    "50,000 volts straight to the nipples",
+    "a balanced breakfast",
+    "dead birds everywhere",
+    "the arrival of the pizza",
+    "Permanent Orgasm-Face Disorder",
+    "the cool, refreshing taste of Pepsi®",
+    "chemical weapons",
+    "Oprah",
+    "wondering if it’s possible to get some of that salsa to go",
+    "bananas",
+    "passive aggressive Post-it notes",
+    "Hillary Clinton’s emails",
+    "switching to Geico®",
+    "peeing a little bit",
+    "wet dreams",
+    "the Jews",
+    "my cheating son-of-a-bitch husband",
+    "powerful thighs",
+    "these hoes",
+    "the only gay person in a hundred miles",
+    "having sex for the first time",
+    "Donald J. Trump",
+    "kissing grandma on the forehead and turning off her life support",
+    "sexual tension",
+    "an AR-15 assault rifle",
+    "my good bra",
+    "punching a congressman in the face",
+    "Fancy Feast®",
+    "being rich",
+    "sweet, sweet vengeance",
+    "Republicans",
+    "sniffing and kissing my feet",
+    "a much younger woman",
+    "poverty",
+    "kamikaze pilots",
+    "committing suicide",
+    "the homosexual agenda",
+    "a Mexican",
+    "a falcon with a cap on its head",
+    "wizard music",
+    "the Kool-Aid Man",
+    "Juuling",
+    "free samples",
+    "hurting those closest to me",
+    "doing the right thing",
+    "the Three-Fifths Compromise",
+    "lactation",
+    "world peace",
+    "shutting up so I can watch the game",
+    "eating a hard boiled egg out of my husband’s asshole",
+    "RoboCop",
+    "one titty hanging out",
+    "Justin Bieber",
+    "Oompa-Loompas",
+    "inappropriate yodeling",
+    "puberty",
+    "ghosts",
+    "50 mg of Zoloft daily",
     "fucking my sister",
     "braiding three penises into a Twizzler",
     "vigorous jazz hands",
