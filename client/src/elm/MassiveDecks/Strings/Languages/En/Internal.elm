@@ -11,7 +11,7 @@ translate _ mdString =
     case mdString of
         -- General
         MassiveDecks ->
-            [ Text "Merhametsiz Kartlar :(" ]
+            [ Text "İnsanlık Suçu" ]
 
         Close ->
             [ Text "Kapat" ]
