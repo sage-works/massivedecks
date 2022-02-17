@@ -7,20 +7,20 @@
   calls: [
     [
       [
-        "Hey Reddit! I’m ",
+        "Selam Ekşi Sözlük Ben ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["Ask me anything."],
+      ["Sorularınız alayım."],
     ],
     [
-      ["Introducing X-treme Baseball!"],
-      ["It’s like baseball, but with ", {}, "!"],
+      ["Ekstra Eksra Serpme Kahvaltı!"],
+      ["Serpme kahvaltı gibi ama", {}, "ile birlikte!"],
     ],
     [
-      ["What is Batman’s guilty pleasure?"],
+      ["Batmanin mahçup olduğu zevk"],
       [
         {
           transform: "Capitalize",
@@ -28,12 +28,12 @@
         ".",
       ],
     ],
-    [["TSA guidelines now prohibit ", {}, " on airplanes."]],
+    [["RTÜK artık televizyonda ", {}, "yasağını kaldırıyor"]],
     [
       [
-        "Next from J.K. Rowling: ",
+        "Sırada Sabahattin Ali'den ",
         {
-          text: "Harry Potter and the Chamber of ",
+          text: "Madonna Kürk mantosuyla ",
           style: "Em",
         },
         {
@@ -44,8 +44,8 @@
       ],
     ],
     [
-      ["That’s right, I killed ", {}, "."],
-      ["How, you ask?"],
+      ["Evet doğru. Ben", {}, "kişisini öldürdüm"],
+      ["Nasıl mı yaptım?"],
       [
         {
           transform: "Capitalize",
@@ -55,15 +55,15 @@
     ],
     [
       [
-        "I’m sorry professor, but I couldn’t complete my homework because of ",
+        "Öğretmenim özür dilerim ödevimi yetiştiremedim çünkü ",
         {},
         ".",
       ],
     ],
-    [["And the Academy Award for ", {}, " goes to ", {}, "."]],
-    [["Dude, do not go in that bathroom."], ["There’s ", {}, " in there."]],
+    [["Ve en iyi ", {}, " için altın portakal ödülü ", {}, "gidiyor"]],
+    [["Reis banyoya sakın girme"], ["Orada ", {}, "var"]],
     [
-      ["How did I lose my virginity?"],
+      ["Bakireliğimi nasıl mı kaybettim?"],
       [
         {
           transform: "Capitalize",
@@ -73,27 +73,27 @@
     ],
     [
       [
-        "It’s a pity that kids these days are all getting involved with ",
+        "Bizim zamanımızda çocuklar ",
         {},
-        ".",
+        "ile uğraşırdı. Nerede o eski günler.",
       ],
     ],
     [
       [
-        "Step 1: ",
+        "1. Adım: ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
       [
-        "Step 2: ",
+        "2. Adım: ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["Step 3: Profit."],
+      ["3. Adım: Zafer."],
     ],
     [
       [
@@ -102,26 +102,26 @@
         },
         ".",
       ],
-      ["Becha can’t have just one!"],
+      ["Ye ye doyamazsın"],
     ],
-    [["Kids, I don’t need drugs to get high. I’m high on ", {}, "."]],
+    [["Hocamlar benim kafamın iyi olması için uyuşturucuya gerek yok. Ben", {}, "ile uçuyorum."]],
     [["For my next trick, I will pull ", {}, " out of ", {}, "."]],
     [
       [
-        "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ",
+        "Türkler ile yunanlar kavga içindeyken, azerbeycan hükümeti bu ürüne 1 milyar dolar yatırım yaptı ",
         {},
         ".",
       ],
     ],
     [
       [
-        "In the new Disney Channel Original Movie, Hannah Montana struggles with ",
+        "TRT 1'in yeni dizisinde Kurtuluş Ertuğrul ",
         {},
-        " for the first time.",
+        " ile ilk defa mücadele edecek",
       ],
     ],
     [
-      ["What’s my secret power?"],
+      ["Benim gizli gücüm ne?"],
       [
         {
           transform: "Capitalize",
@@ -131,9 +131,9 @@
     ],
     [
       [
-        "I’m going on a cleanse this week. Nothing but kale juice and ",
+        "Bu hafta diyetteyim, sadece detox suyu ve ",
         {},
-        ".",
+        "yiyorum.",
       ],
     ],
     [
@@ -156,20 +156,20 @@
     ],
     [
       [
-        "When Pharaoh remained unmoved, Moses called down a Plague of ",
+        "Bu devasa ",
         {},
-        ".",
+        "görse Atatürk mezarında ters dönerdi",
       ],
     ],
     [
       [
-        "Just once, I’d like to hear you say “Thanks, Mom. Thanks for ",
+        "Ulan bir kere de teşekkür et be, bir kere de de ki ",
         {},
-        ".”",
+        "için teşekkür ederim”",
       ],
     ],
     [
-      ["Daddy, why is mommy crying?"],
+      ["Baba, annem neden ağlıyor?"],
       [
         {
           transform: "Capitalize",
@@ -177,44 +177,44 @@
         ".",
       ],
     ],
-    [["When I was tripping on acid, ", {}, " turned into ", {}, "."]],
-    [["50% of all marriages end in ", {}, "."]],
+    [["Rakı masasında 4 saatten sonra, ", {} ," diyerek ağladı."]],
+    [["Evliliklerin %50si ", {}, "yüzünden sonlanır."]],
     [
       [
-        "My fellow Americans: Before this decade is out, we ",
+        "Ey mütiş osmanlı halkım, bu yüzyıl bitmeden ",
         {
-          text: "will",
+          text: "ecnebi topraklarına",
           style: "Em",
         },
-        ", have ",
+        ", kocaman ",
         {},
-        " on the moon.",
+        " dikeceğiz.",
       ],
     ],
     [
       [
-        "This season at Steppenwolf, Samuel Beckett’s classic existential play: ",
+        "Öyle bir geçer zaman kinin yeni sezonunda ali kaptan ",
         {
-          text: "Waiting for",
+          text: "",
           style: "Em",
         },
         {
           style: "Em",
         },
-        ".",
+        "dövüyor.",
       ],
     ],
-    [["Instead of coal, Santa now gives the bad children ", {}, "."]],
+    [["Kurban bayramlarında ekonomik durumdan dolayı bundan sonra ", {}, "kesilecek."]],
     [
       [
-        "Life for American Indians was forever changed when the White Man introduced them to ",
+        "Türkler onlarla ",
         {},
-        ".",
+        " tanıştırdıktan sonra, kürtlerin hayatı sonsuza kadar değişti.",
       ],
     ],
     [
       [
-        "What’s Teach for America using to inspire inner city students to succeed?",
+        "İmam Hatipler, öğrencilerinin başarılı olması için onlara ne öğretir?",
       ],
       [
         {
@@ -223,9 +223,9 @@
         ".",
       ],
     ],
-    [["Maybe she’s born with it."], ["Maybe it’s ", {}, "."]],
+    [["Tuvaletim gelmedi bir türlü."], ["Ben de", {}, "yaptım."]],
     [
-      ["What is George W. Bush thinking about right now?"],
+      ["Kılıçdaroğlu şu an ne hakkında düşünüyor?"],
       [
         {
           transform: "Capitalize",
@@ -233,19 +233,19 @@
         ".",
       ],
     ],
-    [["White people like ", {}, "."]],
+    [["Tokatlılar ", {}, "sever."]],
     [
       [
         {
           transform: "Capitalize",
         },
-        " is a slippery slope that leads to ",
+        "Burası muştur, yolu",
         {},
-        ".",
+        "tur.",
       ],
     ],
     [
-      ["Why do I hurt all over?"],
+      ["Neden aynı hataları tekrar tekrar yapıyorum?"],
       [
         {
           transform: "Capitalize",
@@ -253,11 +253,11 @@
         ".",
       ],
     ],
-    [["A romantic, candlelit dinner would be incomplete without ", {}, "."]],
+    [["Bir biberon buluşması ", {}, "olmazsa eksik kalır."]],
     [
-      ["Just saw this upsetting video! Please retweet!!"],
+      ["RTLeyin lütfen destek için"],
       [
-        "#stop",
+        "#YETER",
         {
           transform: "Capitalize",
         },
@@ -265,55 +265,14 @@
     ],
     [
       [
-        "Fun tip! When your man asks you to go down on him, try surprising him with ",
+        "Eğlenceli bir öneri: Evleneceğiniz hanım, sizden yüzük beklerken onu yüzük yerine",
         {},
-        " instead.",
+        " ile şaşırtabilirsiniz.",
       ],
     ],
-    [["The class field trip was completely ruined by ", {}, "."]],
+    [["Okul gezimiz ", {}, "yüzünden mahvoldu amk."]],
     [
-      ["What’s a girl’s best friend?"],
-      [
-        {
-          transform: "Capitalize",
-        },
-        ".",
-      ],
-    ],
-    [
-      [
-        "Dear Abby, I’m having some trouble with ",
-        {},
-        " and would like your advice.",
-      ],
-    ],
-    [
-      [
-        "In M. Night Shyamalan’s new movie, Bruce Willis discovers that ",
-        {},
-        " had really been ",
-        {},
-        " all along.",
-      ],
-    ],
-    [
-      [
-        "When I am President of the United States, I will create the Department of ",
-        {},
-        ".",
-      ],
-    ],
-    [
-      ["What are my parents hiding from me?"],
-      [
-        {
-          transform: "Capitalize",
-        },
-        ".",
-      ],
-    ],
-    [
-      ["What never fails to liven up the party?"],
+      ["Bir kızın en iyi arkadaşı nedir?"],
       [
         {
           transform: "Capitalize",
@@ -323,16 +282,57 @@
     ],
     [
       [
-        "IF you like ",
+        "Haydar Dümen hocam, bu aralar",
+        {},
+        " konusunda sıkıntı yaşıyorum. Önerinizi alabilir miyim?",
+      ],
+    ],
+    [
+      [
+        "Cem Yılmaz'ın yeni filminde, Ozan Güven farkına varır ki",
+        {},
+        " bunca zamandır ",
+        {},
+        " kılığındaymış.",
+      ],
+    ],
+    [
+      [
+        "Türkiyenin yeni başkanı olduğumda ",
+        {},
+        "bakanlığı kuracağım.",
+      ],
+    ],
+    [
+      ["Çiğ köfteci ali usta yeni tarifinde çiğ köfteye ne koyuyor?"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      ["Tostçu Erol yeni şubesini nerede açıyor"],
+      [
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      [
+        "Eğer ",
         {
           transform: "UpperCase",
         },
         ",",
       ],
-      ["YOU MIGHT BE A REDNECK."],
+      ["seviyorsan sen sanırım burdurlusun."],
     ],
     [
-      ["Make a haiku."],
+      ["Şiir yaz."],
       [
         {
           transform: "Capitalize",
@@ -353,7 +353,7 @@
       ],
     ],
     [
-      ["What made my first kiss so awkward?"],
+      ["Bihter ziyagili ne üzdü?"],
       [
         {
           transform: "Capitalize",
@@ -363,12 +363,12 @@
     ],
     [
       [
-        "Hey guys, welcome to Chili’s! Would you like to start the night off right with ",
+        "Sanayi 313'e hoşgeldiniz, siparişlerinizi almadan önce size bi ",
         {},
-        "?",
+        "ikram edelim mi?",
       ],
     ],
-    [["I got 99 problems but ", {}, " ain’t one."]],
+    [["Keşke Acun Ilıcalı bana ", {}, " verseydi de kendime gelseydim."]],
     [
       [
         {
@@ -376,17 +376,17 @@
         },
         ".",
       ],
-      ["It’s a trap!"],
+      ["Sıçtık"],
     ],
     [
       [
-        "Bravo’s new reality show features eight washed-up celebrities living with ",
+        "Flash tv'nin yeni dizisi ",
         {},
-        ".",
+        "ile ilgili sıkıntı yaşayan gençleri anlatıyor.",
       ],
     ],
     [
-      ["What would grandma find disturbing, yet oddly charming?"],
+      ["Annane neyi iğrenç ama bir yandan da ilginç bulurdu?"],
       [
         {
           transform: "Capitalize",
@@ -401,12 +401,12 @@
         },
         ".",
       ],
-      ["That was so metal."],
+      ["Efsane olaydı."],
     ],
-    [["I never truly understood ", {}, " until I encountered ", {}, "."]],
-    [["During sex, I like to think about ", {}, "."]],
+    [["ben", {}, " görene kadar ", {}, "hiç inanmamıştım."]],
+    [["Seks yaparken ", {}, "hakkında düşünmeyi severim."]],
     [
-      ["What ended my last relationship?"],
+      ["Son ilişkimi ne bitirdi?"],
       [
         {
           transform: "Capitalize",
@@ -415,7 +415,7 @@
       ],
     ],
     [
-      ["What’s that sound?"],
+      ["Bu ses de ne?"],
       [
         {
           transform: "Capitalize",
@@ -425,13 +425,13 @@
     ],
     [
       [
-        "Uh, hey guys, I know this was my idea, but I’m having serious doubts about ",
+        "Ya biliyorum beyler ben size ",
         {},
-        ".",
+        "yapalım dedim ama sanki yapmasak daha iyi olacak.",
       ],
     ],
     [
-      ["Why am I sticky?"],
+      ["Neden yapış yapışım?"],
       [
         {
           transform: "Capitalize",
@@ -441,29 +441,29 @@
     ],
     [
       [
-        "I’m no doctor but I’m pretty sure what you’re suffering from is called “",
+        "Doktor değilim ancak sizin hastalığınızın “",
         {},
-        ".”",
+        "olduğundan eminim.”",
       ],
     ],
     [
-      ["What’s there a ton of in heaven?"],
+      ["Ne?"],
       [
         {
           transform: "Capitalize",
         },
-        ".",
+        "kadıköyde bulacağımı hiç düşünmezdim.",
       ],
     ],
     [
       [
-        "After four platinum albums and three Grammys, it’s time to get back to my roots, to what inspired me to make music in the first place: ",
+        "İbrahim Tatlıses bunca zamandır çıkardığı müziklerde başlıca esin kaynağının ",
         {},
-        ".",
+        "olduğunu söyler.",
       ],
     ],
     [
-      ["What will always get you laid?"],
+      ["İlk buluşmada seksi garantilemek için ne yaparsın?"],
       [
         {
           transform: "Capitalize",
@@ -473,34 +473,25 @@
     ],
     [
       [
-        "They said we were crazy. They said we couldn’t put ",
+        "Bize mal dediler, dediler ki ",
         {},
-        " inside of ",
+        " içine",
         {},
-        ".",
+        "koyamazmışız.",
       ],
-      ["They were wrong."],
+      ["bence koyabiliriz."],
     ],
-    [["Lifetime® presents “", {}, ": the Story of ", {}, ".”"]],
+    [["ATV'den yeni bir efsane “", {}, " ve ", {}, "entrika dolu bir aşk hikayesi.”"]],
     [
       [
         {
           transform: "Capitalize",
         },
-        ": kid-tested, mother-approved.",
+        ": çocuk test etmiş. Anne onaylamış.",
       ],
     ],
     [
-      ["Why can’t I sleep at night?"],
-      [
-        {
-          transform: "Capitalize",
-        },
-        ".",
-      ],
-    ],
-    [
-      ["What’s that smell?"],
+      ["Geceleri neden uyuyamıyorum?"],
       [
         {
           transform: "Capitalize",
@@ -509,8 +500,17 @@
       ],
     ],
     [
+      ["Bu koku da ne?"],
       [
-        "After eight years in the White House, how is Obama finally letting loose?",
+        {
+          transform: "Capitalize",
+        },
+        ".",
+      ],
+    ],
+    [
+      [
+        "20 yıllık iktidardan sonra nasıl meclisten gittiler?",
       ],
       [
         {
@@ -520,27 +520,27 @@
       ],
     ],
     [
-      ["This is the way the world ends"],
-      ["This is the way the world ends"],
-      ["Not with a bang but with ", {}, "."],
+      ["Allahım, allahım"],
+      ["Ateşlere yürüyorum"],
+      ["Allahım, acı ile, ", {}, "ile büyüyorum."],
     ],
-    [["Coming to Broadway this season, ", {}, ": The Musical."]],
+    [["Devlet tiyatrolarına bu ay, ", {}, ": Müzikali geliyor."]],
     [
-      ["Here is the church"],
-      ["Here is the steeple"],
-      ["Open the doors"],
-      ["And there is", {}, "."],
+      ["Buralara yaz günü kar yağıyor canım"],
+      ["Ölene kadar seni bekleyemem"],
+      ["Ona buna benzemem, oyuna gelmem"],
+      ["Senin için", {}, "yiyemem."],
     ],
-    [["But before I kill you, Mr. Bond, I must show you ", {}, "."]],
+    [["Ezel, ramiz dayın olarak ", {}, "sana vasiyetimdir."]],
     [
       [
-        "Studies show that lab rats navigate mazes 50% faster after being exposed to ",
+        "Ömer Çelakıl son çalışmasında ",
         {},
-        ".",
+        "ve daha bir çok benzerinin gerçek olduğunu iddia etti.",
       ],
     ],
     [
-      ["What’s the next superhero/sidekick duo?"],
+      ["Türk süperkahraman ve onun yancısı?"],
       [
         {
           transform: "Capitalize",
@@ -552,24 +552,24 @@
         ".",
       ],
     ],
-    [["Next on ESPN2, the World Series of ", {}, "."]],
+    [["7'den yetmişe, herkesin okuması gereken bir kitap ", {}, "."]],
     [
       [
-        "When I am a billionaire, I shall erect a 50-foot statue to commemorate ",
+        "Sayısal lotoyu kazanırsam eğer ",
         {},
-        ".",
+        "anısına büyük bir heykel dikeceğim.",
       ],
     ],
     [
       [
-        "Military historians remember Alexander the Great for his brilliant use of ",
+        "Günümüzün tarihçileri ",
         {},
-        " against the Persians.",
+        " konusunu hala tartışmalı bir konu olarak görür.",
       ],
     ],
     [
-      ["War!"],
-      ["What is it good for?"],
+      ["Savaş!"],
+      ["Ne anlamı var bu kadar savaşın?"],
       [
         {
           transform: "Capitalize",
