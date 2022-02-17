@@ -11,10 +11,10 @@ translate _ mdString =
     case mdString of
         -- General
         MassiveDecks ->
-            [ Text "Massive Decks" ]
+            [ Text "Merhametsiz Kartlar :(" ]
 
         Close ->
-            [ Text "Close" ]
+            [ Text "Kapat" ]
 
         Noun { noun, quantity } ->
             let
@@ -50,7 +50,7 @@ translate _ mdString =
             [ Text "Version “", Text versionNumber, Text "”" ]
 
         ShortGameDescription ->
-            [ Text "A comedy party game." ]
+            [ Text "Komik ve üzücü bir oyun." ]
 
         WhatIsThis ->
             [ Text "What is ", ref MassiveDecks, Text "?" ]
@@ -105,10 +105,10 @@ translate _ mdString =
             [ Text "the AGPLv3 license" ]
 
         DevelopedByReread ->
-            [ Text "Developed by ", ref RereadGames, Text "." ]
+            [ Text "Tarafından Geliştirildi ", ref RereadGames, Text "." ]
 
         RereadGames ->
-            [ Text "Reread Games" ]
+            [ Text "Biberon Geceleri" ]
 
         NameLabel ->
             [ Text "Your Name" ]

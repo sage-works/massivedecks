@@ -233,13 +233,13 @@ view shared model =
                 [ Html.blankA
                     [ HtmlA.class "logo"
                     , Strings.MDProject |> Lang.title shared
-                    , HtmlA.href "https://github.com/Lattyware/massivedecks"
+                    , HtmlA.href "https://yunusunisihelalolsun"
                     ]
                     [ Icon.viewStyled [ Strings.MDLogoDescription |> Lang.alt shared ] Icon.massiveDecks ]
                 , Html.blankA
                     [ HtmlA.class "logo"
                     , Strings.DevelopedByReread |> Lang.title shared
-                    , HtmlA.href "https://www.rereadgames.com/"
+                    , HtmlA.href "https://www.biberonline.com/"
                     ]
                     [ Icon.viewStyled [ Strings.RereadLogoDescription |> Lang.alt shared ] Icon.rereadGames ]
                 ]
