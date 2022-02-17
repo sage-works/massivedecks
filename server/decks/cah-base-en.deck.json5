@@ -7,17 +7,17 @@
   calls: [
     [
       [
-        "Hey Reddit! I’m ",
+        "Selam Ekşi Sözlük Ben ",
         {
           transform: "Capitalize",
         },
         ".",
       ],
-      ["Ask me anything."],
+      ["Sorularınız alayım."],
     ],
     [
-      ["Introducing X-treme Baseball!"],
-      ["It’s like baseball, but with ", {}, "!"],
+      ["Ekstra Eksra Serpme Kahvaltı!"],
+      ["Serpme kahvaltı gibi ama ", {}, "ile birlikte!"],
     ],
     [
       ["What is Batman’s guilty pleasure?"],
